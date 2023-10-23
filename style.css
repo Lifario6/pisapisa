@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@500&family=Roboto&display=swap');
+
+
+
+body {
+    background: pink;
+    font-family: 'Playpen Sans', cursive;
+    text-align: center;
+}
+.cnt{
+    padding-top: 45px;
+    max-width: 550px;
+    margin: auto;
+}
